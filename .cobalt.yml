@@ -1,7 +1,8 @@
-name: cobalt blog
+name: sikinmettugi static homepage
 source: "."
 dest: "blog"
-posts: "posts"
+posts: "./posts"
 ignore:
   - .git/*
   - build/*
+  - blog/*
