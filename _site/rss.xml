@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>sikinmettugi static homepage</title><link>http://localhost:3000</link><description>CV and blog posts</description><item><title>Post_1</title><link>http://localhost:3000/posts/post_1.html</link><description><![CDATA[<h1>A New Post</h1>
+]]></description><guid>http://localhost:3000/posts/post_1.html</guid></item></channel></rss>

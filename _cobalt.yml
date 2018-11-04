@@ -1,0 +1,21 @@
+
+site:
+  title: sikinmettugi static homepage
+  description: CV and blog posts
+  base_url: https://sikinmettugi.github.io
+source: "."
+pages:
+  default: {}
+posts:
+  title: ~
+  description: ~
+  dir: posts
+  drafts_dir: _drafts
+  order: Desc
+  rss: rss.xml
+  jsonfeed: ~
+  default: {}
+ignore:
+  - .git/*
+  - blog/*
+  - _site/*
