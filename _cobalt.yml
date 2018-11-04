@@ -4,6 +4,7 @@ site:
   description: CV and blog posts
   base_url: https://sikinmettugi.github.io
 source: "."
+destination: "blog"
 pages:
   default: {}
 posts:
