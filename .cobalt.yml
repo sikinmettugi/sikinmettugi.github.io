@@ -1,8 +1,0 @@
-name: sikinmettugi static homepage
-source: "."
-dest: "blog"
-posts: "./posts"
-ignore:
-  - .git/*
-  - build/*
-  - blog/*
